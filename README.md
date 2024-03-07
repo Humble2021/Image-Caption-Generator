@@ -40,7 +40,9 @@ To run the Image Caption Generator locally, follow these steps:
 
 To run the Image Caption Generator, execute the following command in your terminal:
 
+```
 streamlit run app.py
+```
 
 This will start a local web server hosting the application. You can access it by opening a web browser and navigating to `http://localhost:8501`.
 
@@ -57,3 +59,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## License
 
+This project is licensed under the terms of the [MIT License](LICENSE), © 2024 @Humble2021.
