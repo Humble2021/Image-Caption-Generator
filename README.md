@@ -59,4 +59,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## License
 
-This project is licensed under the terms of the [MIT License](LICENSE), © 2024 @Humble2021.
+This project is licensed under the terms of the [MIT License](LICENSE), © 2024 [@Humble2021](https://github.com/Humble2021).
